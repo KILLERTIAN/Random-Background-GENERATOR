@@ -21,3 +21,23 @@ body {
     justify-content: center;
     align-items: center;
 }
+
+.container .block {
+    position: relative;
+    width: 50px;
+    height: 50px;
+    background: #444;
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.5);
+}
+
+.container .block:nth-child(3n + 1) {
+    background: #444;
+}
+
+.container .block:nth-child(3n + 2) {
+    background: #fff;
+}
+
+.container .block:nth-child(3n + 3) {
+    background: #03a9f4;
+}
