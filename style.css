@@ -23,6 +23,10 @@ body {
     align-items: center;
 }
 
+.container.circle .block {
+    border-radius: 50%;
+}
+
 .container .block {
     position: absolute;
     width: 50px;
