@@ -1,6 +1,6 @@
 # Random-Background-GENERATOR
 
-This Webpage is built using a tutorial available in YoutTube
+This Webpage is built using a tutorial available in YouTube
 
 Link:- https://killertian.github.io/Random-Background-GENERATOR/
 
